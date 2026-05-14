@@ -14,6 +14,8 @@ A collection of Laravel activities demonstrating core web development concepts i
 List and explanation of the activities included
 Please clearly emphasize and label the following:
 
+SIA_Activity_1 - A UML design document for the “Mamagan Fun & Adventure Beach Resort Online Booking and Payment System with GCash Integration,” describing the system overview, users/actors, main functions, and a use case diagram for the booking and payment workflow.
+
 SIA_Activity_2 - This activity requires you to create a simple Laravel mini-system with your own unique theme. The system must use routes, controllers, Blade templates, and data passing. You need to create a list page that displays all items and a detail page that shows complete information for a selected item. The project should include at least 5 custom records with 3 attributes each, along with proper navigation between pages using Laravel’s MVC structure.
 
 SIA_Activity_3 - This activity requires students to build a complete Laravel CRUD (Create, Read, Update, Delete) system connected to a MySQL database. Students must configure the database in the .env file, create migrations for the database table, and develop a unique system with full CRUD functionality using controllers, routes, and Blade templates. The project should allow users to add, view, edit, and delete records dynamically from the database while following Laravel’s MVC structure.
